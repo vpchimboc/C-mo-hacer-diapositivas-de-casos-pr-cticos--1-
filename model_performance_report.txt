@@ -1,0 +1,5 @@
+## Reporte de Rendimiento del Modelo Predictivo (Regresión Logística)
+
+**AUC-ROC Score:** 0.8717
+
+### Reporte de Clasificación:
